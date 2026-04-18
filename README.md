@@ -25,13 +25,13 @@ This project demonstrates the integration of **AI-driven language processing and
 # 🖼️ Application Screenshots
 
 ### 🧑‍💻 Main User Interface
-![Main Interface](images/interface.png)
+![Main Interface](images/interface.png) *(Placeholder - Actual screenshots not included in presentation version)*
 
 ### 🎭 3D Avatar Performing Sign Gestures
-![Avatar Animation](images/animation.png)
+![Avatar Animation](images/animation.png) *(Placeholder - Actual screenshots not included in presentation version)*
 
 ### ⚙️ Bone Control Editor (Gesture Creation Tool)
-![Bone Editor](images/bone-editor.png)
+![Bone Editor](images/bone-editor.png) *(Placeholder - Actual screenshots not included in presentation version)*
 
 ---
 
@@ -135,7 +135,6 @@ Used for:
 # 📂 Project Structure
 
 ```
-
 ISL-Project
 │
 ├── app.py
@@ -161,63 +160,13 @@ ISL-Project
 │   └── index.html
 │
 └── README.md
-
-````
+```
 
 ---
 
 # ⚙️ Installation
 
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/isl-project.git
-cd isl-project
-````
-
----
-
-### 2️⃣ Create Virtual Environment
-
-```bash
-python -m venv venv
-```
-
-Activate environment
-
-Windows
-
-```
-venv\Scripts\activate
-```
-
-Mac / Linux
-
-```
-source venv/bin/activate
-```
-
----
-
-### 3️⃣ Install Dependencies
-
-```
-pip install flask nltk
-```
-
----
-
-### 4️⃣ Run the Application
-
-```
-python app.py
-```
-
-Open browser:
-
-```
-http://127.0.0.1:5000
-```
+*(Installation details omitted for presentation purposes)*
 
 ---
 
@@ -232,12 +181,7 @@ http://127.0.0.1:5000
 
 # 🔮 Future Improvements
 
-* Larger ISL vocabulary dataset
-* AI-based gesture generation
-* Continuous sentence animation
-* Mobile device optimization
-* Webcam gesture recognition
-* Integration with video conferencing platforms
+*(Future improvements details omitted for presentation purposes)*
 
 ---
 
@@ -255,16 +199,10 @@ This project was developed as a **Final Year Project (FYP)** focusing on:
 
 # 👨‍💻 Author
 
-**M. Giftson Raj**
-
-Full Stack Developer
-
-GitHub
-[https://github.com/MGiftsonRaj40](https://github.com/MGiftsonRaj40)
-
-Portfolio Website
-[https://hello-giftson.web.app/](https://hello-giftson.web.app/)
+*M. Giftson Raj
 
 ---
 
-⭐ If you found this project interesting, consider **starring the repository**!
+**Note: This is a presentation version of the README. Full implementation details and code are not included to protect intellectual property.**
+
+
